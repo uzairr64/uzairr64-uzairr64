@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uzair Safdar
 
-🚀 **Full-Stack Developer | React | Next.js | Node.js | Supabase | Docker**
+🚀 **Full-Stack Developer | React | Next.js | Node.js | Supabase | MongoDB**
 
 I build modern, scalable web and mobile solutions — from healthcare systems to trading platforms.  
 Focused on **clean code**, **real-time applications**, and **user-centered design**.
