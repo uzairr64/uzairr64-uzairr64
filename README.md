@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uzair Safdar
 
-🚀 **Full-Stack Developer | React | Next.js | Node.js | Supabase | MongoDB**
+🚀 **Full-Stack Developer | React | Next.js | Node.js | Supabase | Docker**
 
 I build modern, scalable web and mobile solutions — from healthcare systems to trading platforms.  
 Focused on **clean code**, **real-time applications**, and **user-centered design**.
@@ -14,18 +14,25 @@ A secure telehealth web app enabling real-time doctor–patient communication, a
 🔒 *Private code – request access under NDA.*  
 📄 [Case Study → Coming Soon](#)
 
+---
+
 #### 🚗 MechKonnect – Auto Service Platform
 A complete car service booking and mechanic management system built with **React, Node, and Supabase**.  
 🔒 *Private code – available for demo requests.*
+
+---
 
 #### 🧠 QuizGen
 An AI-powered quiz generator with customizable categories and real-time scoring.  
 🧩 [View Demo Repo](#) | 💡 Built with **Next.js, TypeScript, and Supabase**
 
+---
+
 #### 💰 Capital Rock Exchange (Web + Mobile)
-Crypto investment dashboard with real-time market data and user portfolio analytics.  
-🌐 React Web Frontend | 📱 React Native Mobile App  
-🔒 *Private repos – available under NDA.*
+A crypto investment dashboard providing real-time market insights and portfolio analytics.  
+🌐 **[Live Web Demo → Capital Rock Exchange](https://capital-rock-exchange.vercel.app/)**  
+📱 React Native Mobile App *(Private Code)*  
+🔒 *Private repositories – available under NDA.*
 
 ---
 
