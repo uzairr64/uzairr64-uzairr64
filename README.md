@@ -24,7 +24,8 @@ A complete car service booking and mechanic management system built with **React
 
 #### 🧠 QuizGen
 An AI-powered quiz generator with customizable categories and real-time scoring.  
-🧩 [View Demo Repo](#) | 💡 Built with **Next.js, TypeScript, and Supabase**
+🌐 **[Live Demo → QuizGen](https://quizgen-ten.vercel.app/)**  
+💡 Built with **Next.js, TypeScript, and Supabase**
 
 ---
 
@@ -50,7 +51,7 @@ A crypto investment dashboard providing real-time market insights and portfolio 
 
 ### 🤝 Connect With Me
 📧 uzairsafdar.dev@gmail.com  
-💼 [LinkedIn](#) | 🌐 [Portfolio Website](#) | 🧰 [Resume (PDF)](#)
+💼 [LinkedIn](https://www.linkedin.com/in/uzairrsafdarr/) | 🌐 [Portfolio Website](#) | 🧰 [Resume (PDF)](https://drive.google.com/file/d/17t8V_BfyhSrkhzeoKN_60CCAZ8JogXEg/view?usp=sharing)
 
 ---
 
